@@ -1,0 +1,63 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir Fry",
+      "recipe_image": "https://i.ibb.co/n3Dq0vF/Chicken-Stir-Fry.jpg",
+      "short_description": "A flavorful and healthy chicken stir fry dish.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
+      "preparing_time": "30",
+      "calories": "320"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Curry",
+      "recipe_image": "https://i.ibb.co/wQdFx7c/Vegetable-Curry.jpg",
+      "short_description": "A delicious and aromatic vegetable curry with spices.",
+      "ingredients": ["300 g mixed vegetables", "200 ml coconut milk", "100 g curry paste", "50 g tofu"],
+      "preparing_time": "45",
+      "calories": "280"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Pasta Primavera",
+      "recipe_image": "https://i.ibb.co/fkqQ6pJ/Pasta-Primavera.jpg",
+      "short_description": "A colorful and refreshing pasta dish with seasonal vegetables.",
+      "ingredients": ["400 g pasta", "300 g mixed vegetables", "100 ml olive oil", "50 g parmesan cheese"],
+      "preparing_time": "25",
+      "calories": "350"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Grilled Salmon",
+      "recipe_image": "https://i.ibb.co/VHjnn2d/Grilled-Salmon.jpg",
+      "short_description": "Healthy and succulent grilled salmon seasoned with herbs.",
+      "ingredients": ["500 g salmon fillets", "50 ml lemon juice", "30 g dill", "20 g garlic"],
+      "preparing_time": "20",
+      "calories": "280"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Fruit Salad",
+      "recipe_image": "https://i.ibb.co/NxdkPTB/Fruit-Salad.jpg",
+      "short_description": "A refreshing and colorful fruit salad with a tangy dressing.",
+      "ingredients": ["300 g mixed fruits", "50 ml honey", "30 ml lemon juice", "10 g mint leaves"],
+      "preparing_time": "15",
+      "calories": "150"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_image": "https://i.ibb.co/pvKkPrh/Chocolate-Chip-Cookies.jpg",
+      "short_description": "Classic homemade chocolate chip cookies that are soft and chewy.",
+      "ingredients": ["200 g flour", "150 g chocolate chips", "100 g butter", "100 g sugar"],
+      "preparing_time": "40",
+      "calories": "200"
+    }
+  ]
+
+
+
+
+
+
+
